@@ -136,11 +136,11 @@ These results confirm that XGBoost handles the complex interactions and imbalanc
 
 ## Acknowledgements
 
-I would like to thank the CSA 802 teaching team for providing the project brief and evaluation rubric that guided this work. The Kaggle community’s open dataset also made it possible to explore financial inclusion in a reproducible way.
+I would like to thank the CSA 802 teaching team, Dr. Rimiru, for providing the project brief and evaluation rubric that guided this work. The Kaggle community’s open dataset also made it possible to explore financial inclusion in a reproducible way.
 
 ## Author
 
-**[Your Name]**  
+**Evance Odhiambo**  
 MSc Artificial Intelligence – CSA 802 Systems and Data Integration  
 Financial Inclusion in Africa – Data Mining Project
 
