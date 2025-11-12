@@ -1,0 +1,11 @@
+# Placeholder file to keep models directory in git
+# Download your .pkl files from Google Colab and place them here:
+# - xgb_model.pkl
+# - scaler.pkl
+# - label_encoders.pkl
+# - feature_names.pkl
+# - pca.pkl
+# - onehot_columns.pkl
+# - categorical_cols.pkl
+# - numerical_cols.pkl
+
